@@ -1,1 +1,1 @@
-Final project for a mathematical modelling course that explores optimal bet sizing for a given game. 
+Final project for a mathematical modelling course exploring the kelly criterion betting strategy. 
